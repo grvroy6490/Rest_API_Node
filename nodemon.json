@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGODB_URI": "mongodb+srv://envdev2021:j5LtkPzaCyscCOyX@apicluster.gt0jeeb.mongodb.net/?retryWrites=true&w=majority&appName=APICluster",
+        "PORT": 5000,
+        "JWT_KEY": "secret"
+    }
+}
